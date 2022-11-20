@@ -1,0 +1,1154 @@
+[
+  {
+    "country": "http://www.wikidata.org/entity/Q265",
+    "countryLabel": "Usbekistan",
+    "capitalLabel": "Taschkent",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q36",
+    "countryLabel": "Polen",
+    "capitalLabel": "Warschau",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q30",
+    "countryLabel": "Vereinigte Staaten",
+    "capitalLabel": "Washington, D.C.",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q219",
+    "countryLabel": "Bulgarien",
+    "capitalLabel": "Sofia",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q183",
+    "countryLabel": "Deutschland",
+    "capitalLabel": "Berlin",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q142",
+    "countryLabel": "Frankreich",
+    "capitalLabel": "Paris",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q20",
+    "countryLabel": "Norwegen",
+    "capitalLabel": "Oslo",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q37",
+    "countryLabel": "Litauen",
+    "capitalLabel": "Vilnius",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q215",
+    "countryLabel": "Slowenien",
+    "capitalLabel": "Ljubljana",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q334",
+    "countryLabel": "Singapur",
+    "capitalLabel": "Singapur",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q45",
+    "countryLabel": "Portugal",
+    "capitalLabel": "Lissabon",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q38",
+    "countryLabel": "Italien",
+    "capitalLabel": "Rom",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q79",
+    "countryLabel": "Ägypten",
+    "capitalLabel": "Kairo",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q159",
+    "countryLabel": "Russland",
+    "capitalLabel": "Moskau",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q145",
+    "countryLabel": "Vereinigtes Königreich",
+    "capitalLabel": "London",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q1008",
+    "countryLabel": "Elfenbeinküste",
+    "capitalLabel": "Yamoussoukro",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q31",
+    "countryLabel": "Belgien",
+    "capitalLabel": "Brüssel",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q230",
+    "countryLabel": "Georgien",
+    "capitalLabel": "Tiflis",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q221",
+    "countryLabel": "Nordmazedonien",
+    "capitalLabel": "Skopje",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q945",
+    "countryLabel": "Togo",
+    "capitalLabel": "Lomé",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q29999",
+    "countryLabel": "Königreich der Niederlande",
+    "capitalLabel": "Amsterdam",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q858",
+    "countryLabel": "Syrien",
+    "capitalLabel": "Damaskus",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q1033",
+    "countryLabel": "Nigeria",
+    "capitalLabel": "Abuja",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q902",
+    "countryLabel": "Bangladesch",
+    "capitalLabel": "Dhaka",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q822",
+    "countryLabel": "Libanon",
+    "capitalLabel": "Beirut",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q213",
+    "countryLabel": "Tschechien",
+    "capitalLabel": "Prag",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q843",
+    "countryLabel": "Pakistan",
+    "capitalLabel": "Islamabad",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q117",
+    "countryLabel": "Ghana",
+    "capitalLabel": "Accra",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q148",
+    "countryLabel": "Volksrepublik China",
+    "capitalLabel": "Peking",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q962",
+    "countryLabel": "Benin",
+    "capitalLabel": "Porto-Novo",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q668",
+    "countryLabel": "Indien",
+    "capitalLabel": "Neu-Delhi",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q1009",
+    "countryLabel": "Kamerun",
+    "capitalLabel": "Yaoundé",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q1000",
+    "countryLabel": "Gabun",
+    "capitalLabel": "Libreville",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q810",
+    "countryLabel": "Jordanien",
+    "capitalLabel": "Amman",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q965",
+    "countryLabel": "Burkina Faso",
+    "capitalLabel": "Ouagadougou",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q77",
+    "countryLabel": "Uruguay",
+    "capitalLabel": "Montevideo",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q929",
+    "countryLabel": "Zentralafrikanische Republik",
+    "capitalLabel": "Bangui",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q1044",
+    "countryLabel": "Sierra Leone",
+    "capitalLabel": "Freetown",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q801",
+    "countryLabel": "Israel",
+    "capitalLabel": "Jerusalem",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q219060",
+    "countryLabel": "Staat Palästina",
+    "capitalLabel": "Jerusalem",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q842",
+    "countryLabel": "Oman",
+    "capitalLabel": "Maskat",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q928",
+    "countryLabel": "Philippinen",
+    "capitalLabel": "Manila",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q971",
+    "countryLabel": "Republik Kongo",
+    "capitalLabel": "Brazzaville",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q241",
+    "countryLabel": "Kuba",
+    "capitalLabel": "Havanna",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q232",
+    "countryLabel": "Kasachstan",
+    "capitalLabel": "Astana",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q774",
+    "countryLabel": "Guatemala",
+    "capitalLabel": "Guatemala-Stadt",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q224",
+    "countryLabel": "Kroatien",
+    "capitalLabel": "Zagreb",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q41",
+    "countryLabel": "Griechenland",
+    "capitalLabel": "Athen",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q96",
+    "countryLabel": "Mexiko",
+    "capitalLabel": "Mexiko-Stadt",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q229",
+    "countryLabel": "Republik Zypern",
+    "capitalLabel": "Nikosia",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q398",
+    "countryLabel": "Bahrain",
+    "capitalLabel": "Manama",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q974",
+    "countryLabel": "Demokratische Republik Kongo",
+    "capitalLabel": "Kinshasa",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q924",
+    "countryLabel": "Tansania",
+    "capitalLabel": "Dodoma",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q114",
+    "countryLabel": "Kenia",
+    "capitalLabel": "Nairobi",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q970",
+    "countryLabel": "Komoren",
+    "capitalLabel": "Moroni",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q953",
+    "countryLabel": "Sambia",
+    "capitalLabel": "Lusaka",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q756617",
+    "countryLabel": "Königreich Dänemark",
+    "capitalLabel": "Kopenhagen",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q1029",
+    "countryLabel": "Mosambik",
+    "capitalLabel": "Maputo",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q1037",
+    "countryLabel": "Ruanda",
+    "capitalLabel": "Kigali",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q916",
+    "countryLabel": "Angola",
+    "capitalLabel": "Luanda",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q878",
+    "countryLabel": "Vereinigte Arabische Emirate",
+    "capitalLabel": "Abu Dhabi",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q846",
+    "countryLabel": "Katar",
+    "capitalLabel": "Doha",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q1036",
+    "countryLabel": "Uganda",
+    "capitalLabel": "Kampala",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q40",
+    "countryLabel": "Österreich",
+    "capitalLabel": "Wien",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q189",
+    "countryLabel": "Island",
+    "capitalLabel": "Reykjavík",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q191",
+    "countryLabel": "Estland",
+    "capitalLabel": "Tallinn",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q1020",
+    "countryLabel": "Malawi",
+    "capitalLabel": "Lilongwe",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q796",
+    "countryLabel": "Irak",
+    "capitalLabel": "Bagdad",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q884",
+    "countryLabel": "Südkorea",
+    "capitalLabel": "Seoul",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q414",
+    "countryLabel": "Argentinien",
+    "capitalLabel": "Buenos Aires",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q27",
+    "countryLabel": "Irland",
+    "capitalLabel": "Dublin",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q1027",
+    "countryLabel": "Mauritius",
+    "capitalLabel": "Port Louis",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q238",
+    "countryLabel": "San Marino",
+    "capitalLabel": "San Marino",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q33",
+    "countryLabel": "Finnland",
+    "capitalLabel": "Helsinki",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q214",
+    "countryLabel": "Slowakei",
+    "capitalLabel": "Bratislava",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q1050",
+    "countryLabel": "Eswatini",
+    "capitalLabel": "Mbabane",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q347",
+    "countryLabel": "Liechtenstein",
+    "capitalLabel": "Vaduz",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q963",
+    "countryLabel": "Botswana",
+    "capitalLabel": "Gaborone",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q954",
+    "countryLabel": "Simbabwe",
+    "capitalLabel": "Harare",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q211",
+    "countryLabel": "Lettland",
+    "capitalLabel": "Riga",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q1019",
+    "countryLabel": "Madagaskar",
+    "capitalLabel": "Antananarivo",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q34",
+    "countryLabel": "Schweden",
+    "capitalLabel": "Stockholm",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q258",
+    "countryLabel": "Südafrika",
+    "capitalLabel": "Pretoria",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q1030",
+    "countryLabel": "Namibia",
+    "capitalLabel": "Windhoek",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q424",
+    "countryLabel": "Kambodscha",
+    "capitalLabel": "Phnom Penh",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q1013",
+    "countryLabel": "Lesotho",
+    "capitalLabel": "Maseru",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q717",
+    "countryLabel": "Venezuela",
+    "capitalLabel": "Caracas",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q881",
+    "countryLabel": "Vietnam",
+    "capitalLabel": "Hanoi",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q1042",
+    "countryLabel": "Seychellen",
+    "capitalLabel": "Victoria",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q819",
+    "countryLabel": "Laos",
+    "capitalLabel": "Vientiane",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q869",
+    "countryLabel": "Thailand",
+    "capitalLabel": "Bangkok",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q574",
+    "countryLabel": "Osttimor",
+    "capitalLabel": "Dili",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q1039",
+    "countryLabel": "São Tomé und Príncipe",
+    "capitalLabel": "São Tomé",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q28",
+    "countryLabel": "Ungarn",
+    "capitalLabel": "Budapest",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q863",
+    "countryLabel": "Tadschikistan",
+    "capitalLabel": "Duschanbe",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q734",
+    "countryLabel": "Guyana",
+    "capitalLabel": "Georgetown",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q833",
+    "countryLabel": "Malaysia",
+    "capitalLabel": "Kuala Lumpur",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q921",
+    "countryLabel": "Brunei",
+    "capitalLabel": "Bandar Seri Begawan",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q865",
+    "countryLabel": "Republik China",
+    "capitalLabel": "Taipeh",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q958",
+    "countryLabel": "Südsudan",
+    "capitalLabel": "Juba",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q423",
+    "countryLabel": "Nordkorea",
+    "capitalLabel": "Pjöngjang",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q32",
+    "countryLabel": "Luxemburg",
+    "capitalLabel": "Luxemburg",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q225",
+    "countryLabel": "Bosnien und Herzegowina",
+    "capitalLabel": "Sarajevo",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q805",
+    "countryLabel": "Jemen",
+    "capitalLabel": "Sanaa",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q212",
+    "countryLabel": "Ukraine",
+    "capitalLabel": "Kiew",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q889",
+    "countryLabel": "Afghanistan",
+    "capitalLabel": "Kabul",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q778",
+    "countryLabel": "Bahamas",
+    "capitalLabel": "Nassau",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q222",
+    "countryLabel": "Albanien",
+    "capitalLabel": "Tirana",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q227",
+    "countryLabel": "Aserbaidschan",
+    "capitalLabel": "Baku",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q218",
+    "countryLabel": "Rumänien",
+    "capitalLabel": "Bukarest",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q917",
+    "countryLabel": "Bhutan",
+    "capitalLabel": "Thimphu",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q813",
+    "countryLabel": "Kirgisistan",
+    "capitalLabel": "Bischkek",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q709",
+    "countryLabel": "Marshallinseln",
+    "capitalLabel": "Majuro",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q228",
+    "countryLabel": "Andorra",
+    "capitalLabel": "Andorra la Vella",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q730",
+    "countryLabel": "Suriname",
+    "capitalLabel": "Paramaribo",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q217",
+    "countryLabel": "Republik Moldau",
+    "capitalLabel": "Chișinău",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q1049",
+    "countryLabel": "Sudan",
+    "capitalLabel": "Khartum",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q399",
+    "countryLabel": "Armenien",
+    "capitalLabel": "Jerewan",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q29",
+    "countryLabel": "Spanien",
+    "capitalLabel": "Madrid",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q826",
+    "countryLabel": "Malediven",
+    "capitalLabel": "Malé",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q16",
+    "countryLabel": "Kanada",
+    "capitalLabel": "Ottawa",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q1045",
+    "countryLabel": "Somalia",
+    "capitalLabel": "Mogadischu",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q236",
+    "countryLabel": "Montenegro",
+    "capitalLabel": "Podgorica",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q672",
+    "countryLabel": "Tuvalu",
+    "capitalLabel": "Funafuti",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q739",
+    "countryLabel": "Kolumbien",
+    "capitalLabel": "Bogotá",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q736",
+    "countryLabel": "Ecuador",
+    "capitalLabel": "Quito",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q184",
+    "countryLabel": "Belarus",
+    "capitalLabel": "Minsk",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q155",
+    "countryLabel": "Brasilien",
+    "capitalLabel": "Brasília",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q233",
+    "countryLabel": "Malta",
+    "capitalLabel": "Valletta",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q790",
+    "countryLabel": "Haiti",
+    "capitalLabel": "Port-au-Prince",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q408",
+    "countryLabel": "Australien",
+    "capitalLabel": "Canberra",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q711",
+    "countryLabel": "Mongolei",
+    "capitalLabel": "Ulaanbaatar",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q419",
+    "countryLabel": "Peru",
+    "capitalLabel": "Lima",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q298",
+    "countryLabel": "Chile",
+    "capitalLabel": "Santiago de Chile",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q837",
+    "countryLabel": "Nepal",
+    "capitalLabel": "Kathmandu",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q874",
+    "countryLabel": "Turkmenistan",
+    "capitalLabel": "Aşgabat",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q664",
+    "countryLabel": "Neuseeland",
+    "capitalLabel": "Wellington",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q750",
+    "countryLabel": "Bolivien",
+    "capitalLabel": "Sucre",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q766",
+    "countryLabel": "Jamaika",
+    "capitalLabel": "Kingston",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q781",
+    "countryLabel": "Antigua und Barbuda",
+    "capitalLabel": "Saint John’s",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q691",
+    "countryLabel": "Papua-Neuguinea",
+    "capitalLabel": "Port Moresby",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q817",
+    "countryLabel": "Kuwait",
+    "capitalLabel": "Kuwait",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q948",
+    "countryLabel": "Tunesien",
+    "capitalLabel": "Tunis",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q697",
+    "countryLabel": "Nauru",
+    "capitalLabel": "Yaren",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q242",
+    "countryLabel": "Belize",
+    "capitalLabel": "Belmopan",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q792",
+    "countryLabel": "El Salvador",
+    "capitalLabel": "San Salvador",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q763",
+    "countryLabel": "St. Kitts und Nevis",
+    "capitalLabel": "Basseterre",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q784",
+    "countryLabel": "Dominica",
+    "capitalLabel": "Roseau",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q115",
+    "countryLabel": "Äthiopien",
+    "capitalLabel": "Addis Abeba",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q800",
+    "countryLabel": "Costa Rica",
+    "capitalLabel": "San José",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q244",
+    "countryLabel": "Barbados",
+    "capitalLabel": "Bridgetown",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q712",
+    "countryLabel": "Fidschi",
+    "capitalLabel": "Suva",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q783",
+    "countryLabel": "Honduras",
+    "capitalLabel": "Tegucigalpa",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q678",
+    "countryLabel": "Tonga",
+    "capitalLabel": "Nukuʻalofa",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q252",
+    "countryLabel": "Indonesien",
+    "capitalLabel": "Jakarta",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q811",
+    "countryLabel": "Nicaragua",
+    "capitalLabel": "Managua",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q1032",
+    "countryLabel": "Niger",
+    "capitalLabel": "Niamey",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q804",
+    "countryLabel": "Panama",
+    "capitalLabel": "Panama-Stadt",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q1028",
+    "countryLabel": "Marokko",
+    "capitalLabel": "Rabat",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q794",
+    "countryLabel": "Iran",
+    "capitalLabel": "Teheran",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q683",
+    "countryLabel": "Samoa",
+    "capitalLabel": "Apia",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q760",
+    "countryLabel": "St. Lucia",
+    "capitalLabel": "Castries",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q702",
+    "countryLabel": "Föderierte Staaten von Mikronesien",
+    "capitalLabel": "Palikir",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q769",
+    "countryLabel": "Grenada",
+    "capitalLabel": "St. George’s",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q786",
+    "countryLabel": "Dominikanische Republik",
+    "capitalLabel": "Santo Domingo",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q1016",
+    "countryLabel": "Libyen",
+    "capitalLabel": "Tripolis",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q43",
+    "countryLabel": "Türkei",
+    "capitalLabel": "Ankara",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q757",
+    "countryLabel": "St. Vincent und die Grenadinen",
+    "capitalLabel": "Kingstown",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q733",
+    "countryLabel": "Paraguay",
+    "capitalLabel": "Asunción",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q851",
+    "countryLabel": "Saudi-Arabien",
+    "capitalLabel": "Riad",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q262",
+    "countryLabel": "Algerien",
+    "capitalLabel": "Algier",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q235",
+    "countryLabel": "Monaco",
+    "capitalLabel": "Monaco-Ville",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q912",
+    "countryLabel": "Mali",
+    "capitalLabel": "Bamako",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q710",
+    "countryLabel": "Kiribati",
+    "capitalLabel": "South Tarawa",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q754",
+    "countryLabel": "Trinidad und Tobago",
+    "capitalLabel": "Port of Spain",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q1005",
+    "countryLabel": "Gambia",
+    "capitalLabel": "Banjul",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q836",
+    "countryLabel": "Myanmar",
+    "capitalLabel": "Naypyidaw",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q685",
+    "countryLabel": "Salomonen",
+    "capitalLabel": "Honiara",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q657",
+    "countryLabel": "Tschad",
+    "capitalLabel": "N’Djamena",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q1014",
+    "countryLabel": "Liberia",
+    "capitalLabel": "Monrovia",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q686",
+    "countryLabel": "Vanuatu",
+    "capitalLabel": "Port Vila",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q977",
+    "countryLabel": "Dschibuti",
+    "capitalLabel": "Dschibuti",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q1007",
+    "countryLabel": "Guinea-Bissau",
+    "capitalLabel": "Bissau",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q967",
+    "countryLabel": "Burundi",
+    "capitalLabel": "Gitega",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q403",
+    "countryLabel": "Serbien",
+    "capitalLabel": "Belgrad",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q1006",
+    "countryLabel": "Guinea",
+    "capitalLabel": "Conakry",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q1025",
+    "countryLabel": "Mauretanien",
+    "capitalLabel": "Nouakchott",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q854",
+    "countryLabel": "Sri Lanka",
+    "capitalLabel": "Sri Jayewardenepura Kotte",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q695",
+    "countryLabel": "Palau",
+    "capitalLabel": "Ngerulmud",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q986",
+    "countryLabel": "Eritrea",
+    "capitalLabel": "Asmara",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q1011",
+    "countryLabel": "Kap Verde",
+    "capitalLabel": "Praia",
+    "countryLang": "de"
+  },
+  {
+    "country": "http://www.wikidata.org/entity/Q1041",
+    "countryLabel": "Senegal",
+    "capitalLabel": "Dakar",
+    "countryLang": "de"
+  }
+]
